@@ -1,6 +1,4 @@
-# littlelemon
-Meta iOS Capstone Project
-A food-ordering app for the Little Lemon restaurant.
+# iOS-capstone
 
 Wireframe
 
